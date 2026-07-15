@@ -52,7 +52,7 @@
 
 *How the skills above map to an analyst's actual workflow:*
 
-`T1592` **Reconnaissance** → Recon & enumeration with Nmap, OWASP ZAP
+`T1592` **Reconnaissance** → Recon & enumeration with Nmap, OWASP ZAP \n
 `T1027` **Defense Evasion Analysis** → Packing/entropy detection, unpacking obfuscated binaries
 `T1059` **Execution Analysis** → Behavioral analysis via CAPE Sandbox, dynamic detonation
 `T1083` **Discovery / IOC Extraction** → YARA & CAPA rule matching, string extraction (FLOSS)
