@@ -55,42 +55,6 @@ Cybersecurity Researcher • Malware Analyst • AI Security Enthusiast
 
 ---
 
-# 🦠 Current Research
-
-Developing an **AI-Powered Malware Analysis Framework**
-
-### Pipeline
-
-```
-Suspicious File
-      │
-      ▼
-PE Analysis
-      │
-      ▼
-Strings / FLOSS
-      │
-      ▼
-CAPA Analysis
-      │
-      ▼
-YARA Detection
-      │
-      ▼
-VirusTotal
-      │
-      ▼
-MITRE ATT&CK Mapping
-      │
-      ▼
-LLM Reasoning
-      │
-      ▼
-Threat Intelligence Report
-```
-
----
-
 # 🚀 Featured Projects
 
 ### 🦠 AI Malware Analysis Framework
