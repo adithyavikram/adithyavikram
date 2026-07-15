@@ -1,157 +1,286 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Adithya Vikram
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
 
-### Cybersecurity Researcher | Malware Analyst | AI Security Enthusiast
+<h1 align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Adithya Vikram
+</h1>
 
-I'm an M.Tech Cybersecurity student at **Cochin University of Science and Technology (CUSAT)** with a strong interest in **Malware Analysis**, **Threat Intelligence**, **AI for Cybersecurity**, and **Offensive Security**.
+<h3 align="center">
+Cybersecurity Researcher • Malware Analyst • AI Security Enthusiast
+</h3>
 
-My current research focuses on combining **Large Language Models (LLMs)** with traditional malware analysis tools to automate threat investigation and improve malware triage workflows.
+<p align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&lines=Malware+Analysis;Reverse+Engineering;Threat+Intelligence;AI-Powered+Security;Local+LLMs+for+Cybersecurity;Python+Developer;Penetration+Testing;Digital+Forensics"/>
 
-## 🛡️ About Me
-
-* 🎓 M.Tech in Computer Science (Cybersecurity)
-* 🔬 Cyber Security Intern – IIIT Kottayam (CyberLabs)
-* 🦠 Malware Analysis Enthusiast
-* 🤖 Building AI-powered malware analysis frameworks
-* 🐍 Python Developer
-* ⚔️ Active learner on Hack The Box & OverTheWire
-* 🌱 Currently exploring Agentic AI for Cybersecurity
+</p>
 
 ---
 
-# 🔬 Areas of Interest
+<p align="center">
 
-* Malware Analysis
-* Reverse Engineering
-* Threat Intelligence
-* Digital Forensics
-* Penetration Testing
-* AI in Cybersecurity
-* Local Large Language Models
-* Security Automation
-* Network Security
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212744275-2d2cdb4a-5b5d-4b87-bd6c-1d6c73e4e2f6.gif">
+
+</p>
+
+# ⚡ About Me
+
+```text
+┌───────────────────────────────────────────────┐
+│ ROLE        : Cybersecurity Researcher        │
+│ SPECIALITY  : Malware Analysis                │
+│ FOCUS       : AI + Threat Intelligence        │
+│ PLATFORM    : Linux / Windows                 │
+│ CURRENT     : M.Tech Cyber Security @ CUSAT   │
+└───────────────────────────────────────────────┘
+```
+
+- Malware Analysis
+- Reverse Engineering
+- Digital Forensics
+- Threat Intelligence
+- AI-powered Malware Analysis
+- Local Large Language Models
+- Penetration Testing
+- Security Automation
+
+---
+
+# 🦠 Current Research
+
+Developing an **AI-Powered Malware Analysis Framework**
+
+### Pipeline
+
+```
+Suspicious File
+      │
+      ▼
+PE Analysis
+      │
+      ▼
+Strings / FLOSS
+      │
+      ▼
+CAPA Analysis
+      │
+      ▼
+YARA Detection
+      │
+      ▼
+VirusTotal
+      │
+      ▼
+MITRE ATT&CK Mapping
+      │
+      ▼
+LLM Reasoning
+      │
+      ▼
+Threat Intelligence Report
+```
 
 ---
 
 # 🚀 Featured Projects
 
-### 🦠 AI-Powered Malware Analysis Framework
+### 🦠 AI Malware Analysis Framework
 
-An AI-driven malware analysis framework built using LangGraph and Ollama that automates static malware analysis using local LLMs.
-
-**Features**
-
-* Automated PE Analysis
-* CAPA Capability Detection
-* FLOSS String Extraction
-* YARA Rule Matching
-* VirusTotal Integration
-* MITRE ATT&CK Mapping
-* IOC Extraction
-* Automated HTML/PDF Report Generation
+- LangGraph Multi-Agent Architecture
+- Ollama
+- Local LLMs
+- PEfile
+- FLOSS
+- CAPA
+- YARA
+- VirusTotal
+- MITRE ATT&CK
+- Automated PDF Reports
 
 ---
 
-### 🤖 Malware Analysis Platform using MCP
+### 🔥 Malware Analysis MCP Server
 
-Built a Model Context Protocol (MCP) server exposing professional malware analysis tools to an LLM.
+AI-assisted malware analyst using Claude + MCP
 
-Integrated:
+Supports
 
-* PEfile
-* CAPA
-* FLOSS
-* Strings
-* YARA
-* MITRE ATT&CK
-
-The system enables Claude to function as an AI Malware Analyst capable of generating structured threat intelligence reports.
+- PE Analysis
+- Capability Detection
+- IOC Extraction
+- Malware Classification
+- ATT&CK Mapping
 
 ---
 
-### 🧪 CAPE Sandbox Malware Lab
+### 🛡 CAPE Sandbox Malware Lab
 
-Hands-on malware analysis laboratory featuring:
+Dynamic Malware Analysis Environment
 
-* CAPE Sandbox
-* Dynamic Analysis
-* Network Monitoring
-* IOC Extraction
-* Behavioral Analysis
-* Threat Intelligence
+- Windows VM
+- CAPE Sandbox
+- Wireshark
+- API Monitoring
+- IOC Extraction
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-* Python
-* C
-* C++
-* HTML
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash"/>
+
+</p>
 
 ### Cybersecurity
 
-* Malware Analysis
-* Penetration Testing
-* Network Security
-* Threat Analysis
+<p>
 
-### Security Tools
+<img src="https://img.shields.io/badge/Malware%20Analysis-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
-* CAPE Sandbox
-* PEfile
-* CAPA
-* FLOSS
-* YARA
-* Wireshark
-* Nmap
-* Metasploit
-* OWASP ZAP
-* Kali Linux
-* VirusTotal
+<img src="https://img.shields.io/badge/Reverse%20Engineering-00FF41?style=for-the-badge"/>
 
-### AI & Automation
+<img src="https://img.shields.io/badge/Penetration%20Testing-00FF41?style=for-the-badge"/>
 
-* Ollama
-* LangGraph
-* Claude
-* MCP
-* Local LLMs
+<img src="https://img.shields.io/badge/Digital%20Forensics-00FF41?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📚 Currently Learning
+# 🛠 Tools
 
-* Agentic AI
-* Multi-Agent Security Systems
-* Reverse Engineering
-* Windows Internals
-* Memory Forensics
-* Malware Detection using LLMs
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
 
-# 📈 GitHub Goals (2026)
+</p>
 
-* Build an open-source malware analysis toolkit
-* Publish cybersecurity research
-* Share malware analysis reports
-* Release AI-powered security automation tools
-* Contribute to open-source cybersecurity projects
+**Security**
 
----
-
-# 📫 Connect With Me
-
-* 💼 LinkedIn: https://linkedin.com/in/adithyavikramrnair-527859184
-* 📧 Email: [adithyavikram2001@gmail.com](mailto:adithyavikram2001@gmail.com)
-* 🐙 GitHub: https://github.com/adithyavikram
+- Kali Linux
+- CAPE Sandbox
+- Wireshark
+- Nmap
+- Metasploit
+- OWASP ZAP
+- PEfile
+- CAPA
+- FLOSS
+- YARA
 
 ---
 
-> "Automating malware analysis with AI while keeping the analyst in control."
+# 📊 GitHub Statistics
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adithyavikram&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavikram&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyavikram&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adithyavikram&theme=matrix&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyavikram&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+- Malware Reverse Engineering
+- Windows Internals
+- Memory Forensics
+- Threat Hunting
+- Agentic AI
+- AI Security
+- Local LLMs
+```
+
+---
+
+# 🎯 2026 Goals
+
+✅ Publish Cybersecurity Research
+
+✅ Open Source Malware Analysis Framework
+
+✅ Build AI Security Agents
+
+✅ Contribute to Security Tools
+
+✅ Earn Advanced HTB Labs
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/adithyavikramrnair-527859184">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:adithyavikram2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/adithyavikram">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adithyavikram&style=for-the-badge&color=00ff41"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### "Understanding malware isn't just about finding threats—it's about learning how systems fail so they can be built stronger."
+
+</p>
