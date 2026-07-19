@@ -1,92 +1,167 @@
 <div align="center">
 
 ```
-root@avn:~$ whoami
+╔══════════════════════════════════════════════════════════╗
+║              THREAT INTELLIGENCE REPORT                    ║
+║              CLASSIFICATION: PUBLIC                        ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-# Adithya Vikram R Nair
+# ADITHYA VIKRAM R NAIR
 
-**Aspiring Cybersecurity Analyst** — Malware Analysis · Red Team
+**Aspiring Cybersecurity Analyst** · Malware Analysis · Threat Intelligence · AI-Driven Security Tooling
 
-![status](https://img.shields.io/badge/STATUS-ACTIVE-b8342a?style=flat-square&labelColor=0a0b0d)
-![focus](https://img.shields.io/badge/FOCUS-Malware%20Analysis%20%2F%20Threat%20Intel-c99a3e?style=flat-square&labelColor=0a0b0d)
-![base](https://img.shields.io/badge/BASE-Kottayam%2C%20Kerala-4f8c66?style=flat-square&labelColor=0a0b0d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F5A623)](https://linkedin.com/in/adithyavikramrnair-527859184)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F5A623)](mailto:adithyavikram2001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F5A623)](https://github.com/adithyavikram)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=F5A623)](https://profile.hackthebox.com/profile/019e3b8d-b71a-726a-b870-de50b406643e)
 
 </div>
 
 ---
 
-### `$ cat about.md`
+### 📋 Analyst Dossier
 
-Aspiring cybersecurity professional with foundational knowledge in ethical hacking and programming in C
-and Python. Strong interest in malware development and analysis, threat analysis, and system protection —
-currently deepening that focus through an M.Tech specialization in Cybersecurity. Building hands-on skill
-through Hack The Box, OverTheWire, and applied projects that pair traditional malware analysis tooling
-with LLM-based automation.
+| Field | Value |
+|---|---|
+| **Subject** | Adithya Vikram R Nair |
+| **Role** | Aspiring Cybersecurity Analyst |
+| **Current Assignment** | M.Tech in Cybersecurity, Cochin University of Science & Technology |
+| **Specialization** | Malware Analysis · AI-Assisted Threat Triage |
+| **Status** | 🟢 Actively Hunting |
+| **Verdict** | `HIGH VALUE — RECOMMENDED FOR ENGAGEMENT` |
 
-### `$ nmap -sV target/skills`
+<br>
 
-```text
-Starting scan on security domains…
+### 🎯 Capability Matrix
 
-PORT       STATE   SERVICE
-31337/tcp  open    malware-analysis
-445/tcp    open    penetration-testing
-22/tcp     open    network-security
-80/tcp     open    ethical-hacking
+*Severity-rated like a malware capability report — because that's exactly the kind of report this analyst writes for a living.*
 
-4 services open — scan complete.
+| Severity | Capability | Toolchain |
+|---|---|---|
+| ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF4B4B?style=flat-square) | Malware Analysis (Static & Dynamic) | CAPE Sandbox, PEfile, CAPA, FLOSS, YARA |
+| ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF4B4B?style=flat-square) | AI-Assisted Threat Intelligence | LangGraph, Ollama (Llama 3 / Qwen), Claude + MCP |
+| ![HIGH](https://img.shields.io/badge/HIGH-F5A623?style=flat-square) | Penetration Testing & Ethical Hacking | Metasploit, Nmap, OWASP ZAP, Kali Linux |
+| ![HIGH](https://img.shields.io/badge/HIGH-F5A623?style=flat-square) | Network Traffic Analysis | Wireshark |
+| ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFD166?style=flat-square) | Programming | Python, C, C++, HTML |
+| ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFD166?style=flat-square) | CTF / Range Practice | Hack The Box, OverTheWire |
+
+<br>
+
+### 🗺️ MITRE ATT&CK-Style Skill Mapping
+
+*How the skills above map to an analyst's actual workflow:*
+
+`T1592` **Reconnaissance** → Recon & enumeration with Nmap, OWASP ZAP
+`T1027` **Defense Evasion Analysis** → Packing/entropy detection, unpacking obfuscated binaries
+`T1059` **Execution Analysis** → Behavioral analysis via CAPE Sandbox, dynamic detonation
+`T1083` **Discovery / IOC Extraction** → YARA & CAPA rule matching, string extraction (FLOSS)
+`TA0043` **Threat Intel Reporting** → ATT&CK mapping, capability scoring, AI-generated analyst reports
+
+<br>
+
+### 📁 Incident Log — Experience
+
+```
+[2026-05] ────────────────────────────────────────────
+  ENTITY   : Cyberlabs, IIIT-Kottayam
+  ROLE     : Cyber Security Intern
+  LOCATION : Kottayam, Kerala
+  ACTIONS  : Static & dynamic malware analysis using
+             CAPE Sandbox, PEfile, CAPA, FLOSS, YARA,
+             VirusTotal, Wireshark
+  OUTPUT   : IOC identification, MITRE ATT&CK mapping
 ```
 
-**Languages**
-![HTML](https://img.shields.io/badge/HTML-12141a?style=flat-square&labelColor=0a0b0d)
-![C++](https://img.shields.io/badge/C++-12141a?style=flat-square&labelColor=0a0b0d)
-![C](https://img.shields.io/badge/C-12141a?style=flat-square&labelColor=0a0b0d)
-![Python](https://img.shields.io/badge/Python-12141a?style=flat-square&labelColor=0a0b0d)
+<br>
 
-**Tools**
-![nmap](https://img.shields.io/badge/nmap-12141a?style=flat-square&labelColor=0a0b0d)
-![Metasploit](https://img.shields.io/badge/Metasploit-12141a?style=flat-square&labelColor=0a0b0d)
-![Wireshark](https://img.shields.io/badge/Wireshark-12141a?style=flat-square&labelColor=0a0b0d)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-12141a?style=flat-square&labelColor=0a0b0d)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-12141a?style=flat-square&labelColor=0a0b0d)
-![pefile](https://img.shields.io/badge/pefile-12141a?style=flat-square&labelColor=0a0b0d)
-![CAPE Sandbox](https://img.shields.io/badge/CAPE%20Sandbox-12141a?style=flat-square&labelColor=0a0b0d)
-![Mandiant CAPA](https://img.shields.io/badge/Mandiant%20CAPA-12141a?style=flat-square&labelColor=0a0b0d)
-![FLOSS](https://img.shields.io/badge/FLOSS-12141a?style=flat-square&labelColor=0a0b0d)
-![YARA](https://img.shields.io/badge/YARA-12141a?style=flat-square&labelColor=0a0b0d)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-12141a?style=flat-square&labelColor=0a0b0d)
+### 🗂️ Case Files — Featured Projects
 
-**Platforms**
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-b8342a?style=flat-square&labelColor=0a0b0d)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-b8342a?style=flat-square&labelColor=0a0b0d)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**CASE-01 · AI-Powered Malware Analysis Framework**
+`2026` · ![Active](https://img.shields.io/badge/status-active-F5A623?style=flat-square)
 
-### `$ ls -la reports/`
+Multi-agent framework automating static malware analysis end-to-end.
+- LangGraph + Ollama (Llama 3 / Qwen) — fully local
+- PEfile, FLOSS, CAPA, YARA, VirusTotal, MITRE ATT&CK integration
+- Auto-generates PDF/HTML reports with family classification & risk scoring
 
-| PROJECT_ID | STATUS | ENTRY |
+`TAGS:` `LLM` `LangGraph` `Ollama` `ATT&CK`
+
+</td>
+<td width="50%" valign="top">
+
+**CASE-02 · Malware Static Analysis Platform (MCP)**
+`2026` · ![Active](https://img.shields.io/badge/status-active-F5A623?style=flat-square)
+
+MCP server exposing static analysis tools as LLM-callable functions.
+- Isolated Windows VM for safe sample handling
+- PE header inspection, entropy-based packing detection
+- Claude deployed as an expert malware analyst persona
+
+`TAGS:` `MCP` `Claude` `StaticAnalysis` `ThreatIntel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**CASE-03 · Decentralized Health Insurance dApp**
+`2022–2023` · ![Closed](https://img.shields.io/badge/status-closed-808080?style=flat-square)
+
+- Blockchain-based dApp on Ethereum
+- Solidity smart contracts for claims & premium automation
+- Eliminated intermediaries, ensured data immutability
+
+`TAGS:` `Blockchain` `Solidity` `Ethereum`
+
+</td>
+<td width="50%" valign="top">
+
+**CASE-04 · E-commerce Platform for Farmers**
+`2021–2022` · ![Closed](https://img.shields.io/badge/status-closed-808080?style=flat-square)
+
+- Full-stack marketplace connecting farmers directly to consumers
+- HTML, CSS, Bootstrap frontend · Node.js, Express, MongoDB backend
+- Product listing, cart, checkout, authentication
+
+`TAGS:` `MERN` `FullStack`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎓 Education Timeline
+
+| Period | Credential | Institution |
 |---|---|---|
-| PRJ-01 | ![critical](https://img.shields.io/badge/-CRITICAL%20FOCUS-b8342a?style=flat-square&labelColor=0a0b0d) | AI-Powered Malware Analysis Framework Using Local LLMs — multi-agent static analysis pipeline (LangGraph, Ollama, Llama 3/Qwen) with automated PDF/HTML reporting. |
-| PRJ-02 | ![critical](https://img.shields.io/badge/-CRITICAL%20FOCUS-b8342a?style=flat-square&labelColor=0a0b0d) | AI-Powered Malware Static Analysis Platform with MCP Integration — MCP server exposing PEfile, FLOSS, CAPA, YARA to an LLM analyst persona. |
-| PRJ-03 | ![medium](https://img.shields.io/badge/-MEDIUM-c99a3e?style=flat-square&labelColor=0a0b0d) | Decentralized Application for Health Insurance Distribution — Ethereum smart contracts for claims and policy management. |
-| PRJ-04 | ![low](https://img.shields.io/badge/-LOW-4f8c66?style=flat-square&labelColor=0a0b0d) | E-commerce Website for Farmers — full-stack marketplace (Node.js, Express, MongoDB). |
+| 2025 – Present | M.Tech, CSE (Cybersecurity) | Cochin University of Science & Technology |
+| 2019 – 2023 | B.Tech, Information Technology (CGPA 7.29) | Govt. Engineering College, Barton Hill |
+| 2017 – 2019 | Higher Secondary (91.6%) | SMV HSS Poonjar |
 
-Full write-ups, IOCs, and ATT&CK mappings live in the **[portfolio site](#)** — replace this link with your deployed GitHub Pages URL.
+<br>
 
----
-
-### `$ whois adithya`
-
-[![Email](https://img.shields.io/badge/Email-adithyavikram2001%40gmail.com-b8342a?style=flat-square&labelColor=0a0b0d)](mailto:adithyavikram2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-replace--with--your--handle-4f8c66?style=flat-square&labelColor=0a0b0d)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-replace--with--your--handle-4f8c66?style=flat-square&labelColor=0a0b0d)](#)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-replace--with--your--id-4f8c66?style=flat-square&labelColor=0a0b0d)](#)
+### 📊 Live Telemetry
 
 <div align="center">
 
-```
-EOF
-```
+<img src="https://github-readme-stats.vercel.app/api?username=adithyavikram&show_icons=true&theme=dark&hide_border=true&title_color=F5A623&icon_color=FF4B4B&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyavikram&theme=dark&hide_border=true&ring=FF4B4B&fire=F5A623&currStreakLabel=F5A623&background=0d1117" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Verdict:** No indicators of stagnation detected. Subject continues active development.
+Reach out via the channels above — false-positive reports also welcome. 😄
+
+![Profile Views](https://komarev.com/ghpvc/?username=adithyavikram&color=F5A623&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
