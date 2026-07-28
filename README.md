@@ -18,7 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F5A623)](mailto:adithyavikram2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=F5A623)](https://github.com/adithyavikram)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=F5A623)](https://profile.hackthebox.com/profile/019e3b8d-b71a-726a-b870-de50b406643e)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)(https://adithyavikram.github.io/)]
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://adithyavikram.github.io/)
 
 </div>
 
