@@ -6,6 +6,9 @@
 ║              CLASSIFICATION: PUBLIC                        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+</div>
+
+<div align="center">
 
 # ADITHYA VIKRAM R NAIR
 
